@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\GestorInventario\GestorInventario.Entidades\bin\Release\GestorInventario.Entidades.dll
+C:\Users\USUARIO\source\repos\GestorInventario\GestorInventario.Entidades\bin\Release\GestorInventario.Entidades.pdb
+C:\Users\USUARIO\source\repos\GestorInventario\GestorInventario.Entidades\bin\Release\GestorInventario.Entidades.xml
+C:\Users\USUARIO\source\repos\GestorInventario\GestorInventario.Entidades\obj\Release\GestorInventario.Entidades.vbproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\GestorInventario\GestorInventario.Entidades\obj\Release\GestorInventario.Entidades.Resources.resources
+C:\Users\USUARIO\source\repos\GestorInventario\GestorInventario.Entidades\obj\Release\GestorInventario.Entidades.vbproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\GestorInventario\GestorInventario.Entidades\obj\Release\GestorInventario.Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\GestorInventario\GestorInventario.Entidades\obj\Release\GestorInventario.Entidades.dll
+C:\Users\USUARIO\source\repos\GestorInventario\GestorInventario.Entidades\obj\Release\GestorInventario.Entidades.xml
+C:\Users\USUARIO\source\repos\GestorInventario\GestorInventario.Entidades\obj\Release\GestorInventario.Entidades.pdb
